@@ -1,2 +1,2 @@
-# Sartorius---Cell-Instance-Segmentation
+# Sartorius-Cell-Instance-Segmentation
 CMPE 258 course project
